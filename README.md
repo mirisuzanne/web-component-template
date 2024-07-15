@@ -1,4 +1,4 @@
-# `track-list`
+# `component-name`
 
 A Web Component for…
 
