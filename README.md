@@ -49,7 +49,7 @@ Make sure you include the `<script>` in your project
 <!-- 3rd party CDN, not recommended for production use -->
 <script
   type="module"
-  src="https://www.unpkg.com/@terriblemia/component-name@1.0.0/component-name.js"
+  src="https://www.unpkg.com/@terriblemia/component-name@0.1.0/component-name.js"
 ></script>
 ```
 
@@ -57,7 +57,7 @@ Make sure you include the `<script>` in your project
 <!-- 3rd party CDN, not recommended for production use -->
 <script
   type="module"
-  src="https://esm.sh/@terriblemia/component-name@1.0.0"
+  src="https://esm.sh/@terriblemia/component-name@0.1.0"
 ></script>
 ```
 
